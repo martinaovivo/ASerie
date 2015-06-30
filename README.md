@@ -5,5 +5,6 @@ ModPack usado em meu canal do youtube.
 
 Minecraft versão 1.7.10
 
-Minecraft Forge 10.13.2.1291
+Minecraft Forge 10.13.4.1448
+
 - http://files.minecraftforge.net/
